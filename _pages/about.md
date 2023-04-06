@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Microsoft STCA, Suzhou, China.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>huanglydd@gmail.com</p>
+    <p>Suzhou Center Tower B, 88 Suxiu Road, SIP, Suzhou</p>
+    <p>Suzhou, Jiangsu 215123</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my personal website! I am excited to share with you my academic background, professional experience, and interests in corporate partnerships and new opportunities. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I hold a degree in Master of Science from [Purdue University, Indiana, USA](https://www.purdue.edu/), and have gained valuable knowledge and skills of data analytics and AI through my academic pursuits. I was being a teaching assistance of two undergraduate courses `ITSLab.jpg`. Before this, I hold a degree in Bachelor of Engineering from [Donghua University, Shanghai, China](https://english.dhu.edu.cn/), in where have gained solid programming skills and critical thinking capability. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My area of expertise is machine learning, NLP, and material infomatics, and I am passionate about exploring new ideas and pushing the boundaries of what is possible. In terms of my professional experience, I have worked in various roles within the academics and industry, including research scientist at [Toyota Research Institute of North America](https://amrd.toyota.com/division/trina/). Through these experiences, I have honed my research sense and ablility, and have developed a keen understanding of the material informatics.
+
+Current I am employeed in [Microsoft](https://www.microsoft.com/en-us/ard/aboutus/team-stca) as Applied Scientist 2, the Bing department. I am always on the lookout for new opportunities to collaborate and partner with like-minded individuals and organizations. 
+
+I believe that through collaboration and innovation, we can drive positive change and create new opportunities for growth and success. If you are interested in learning more about my academic and professional background, or would like to explore potential opportunities for collaboration, please do not hesitate to get in touch. I look forward to hearing from you!.
